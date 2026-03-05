@@ -1,4 +1,5 @@
-﻿# Fitness Den
+# Fitness Den
 
-live demo ----- https://github.com/Sonushetty27/-FUTURE_FS_03.git
+💪 Fitness website project.
 
+🔗 Live Demo: https://sonushetty27.github.io/FUTURE_FS_03/
